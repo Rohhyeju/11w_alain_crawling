@@ -6,5 +6,5 @@
 
 202255143 송민정 역할: 책 제목을 입력하면 해당 책의 주별 변동 순위를 크롤링하는 크롤러를 코딩 후 github에 업로드
 
-크롤링할 사이트 url : https://www.aladin.co.kr/shop/common/wbest.aspx?BranchType=1&BestType=Bestseller
+크롤링할 사이트 url : https://www.aladin.co.kr/shop/common/wbest.aspx?BranchType=1&CID=0&Year=2022&Month=1&Week={}&BestType=Bestseller&SearchSubBarcode=
 
