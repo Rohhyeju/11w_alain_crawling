@@ -1,6 +1,6 @@
 import urllib.request as req
 from bs4 import BeautifulSoup
-f = open("./1조_노혜주_출력결과.txt", "w")
+f = open("./10조_노혜주_출력결과.txt", "w")
 
 week_num = 1
 ranking=1
@@ -23,7 +23,7 @@ f.close()
 
 import urllib.request as req
 from bs4 import BeautifulSoup
-f = open("./1조_송민정_출력결과.txt", "w")
+f = open("./10조_송민정_출력결과.txt", "w")
 a=[]
 b=[]
 c=[]
